@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Aritmetiksel İşlemler\Aritmetiksel İşlemler\bin\Debug\Aritmetiksel İşlemler.exe.config
+C:\Users\user\Desktop\10-M\Aritmetiksel İşlemler\Aritmetiksel İşlemler\bin\Debug\Aritmetiksel İşlemler.exe
+C:\Users\user\Desktop\10-M\Aritmetiksel İşlemler\Aritmetiksel İşlemler\bin\Debug\Aritmetiksel İşlemler.pdb
+C:\Users\user\Desktop\10-M\Aritmetiksel İşlemler\Aritmetiksel İşlemler\obj\Debug\Aritmetiksel İşlemler.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Aritmetiksel İşlemler\Aritmetiksel İşlemler\obj\Debug\Aritmetiksel_İşlemler.Form1.resources
+C:\Users\user\Desktop\10-M\Aritmetiksel İşlemler\Aritmetiksel İşlemler\obj\Debug\Aritmetiksel_İşlemler.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Aritmetiksel İşlemler\Aritmetiksel İşlemler\obj\Debug\Aritmetiksel İşlemler.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Aritmetiksel İşlemler\Aritmetiksel İşlemler\obj\Debug\Aritmetiksel İşlemler.exe
+C:\Users\user\Desktop\10-M\Aritmetiksel İşlemler\Aritmetiksel İşlemler\obj\Debug\Aritmetiksel İşlemler.pdb
